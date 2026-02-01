@@ -1,0 +1,22 @@
+Some of these files I did not rename due to time. Some I did rename, but you'll need to check before using.   
+
+I included them in case you want to rename them and replace the item. 
+
+For example, for cleveland, if you want the elf textures, 
+you'll need to rename to replace the midfield logos and the endzone logos inside of: replacements/teams/cleveland.
+
+If you just put these into the replacements folder they will not work without first renaming them.
+These are not necessary, rather enhancements if you wish to use them. 
+
+Again, apologies for the inconvenience.
+
+UPDATE:
+
+New team updates thanks to johndest.  Great work, thank you for your contribution!
+
+Indiana Nights Uniforms - Indianapolis.  Back up the replacements/teams/indianapolis helmet and home folder.  
+Then delete and move the alternates/teams/indianapolis/indiana_nights folder to replacements/teams/indianapolis.
+
+Carolina Blue Alternate Home Uniforms. 
+
+Many alternate helmets.
