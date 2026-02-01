@@ -19,7 +19,7 @@ Downloads
 | Latest Release | [Link](https://www.mediafire.com/file/npk9nofuf0oeoxv/m12_patch_jan_24_2026.zip/file)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
-| Texture Download Tool | |
+| Texture Download Tool | [Link](https://github.com/maddendeluxe/maddendeluxe-textures-downloader-v2/releases/tag/release) |
 | Compatible Emulators | [Link](https://github.com/ncaanext/emulator-archive) |
 
 JSGME Mods
