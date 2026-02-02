@@ -1,0 +1,6 @@
+gametitle=Madden NFL 12 (SLUS-21946)
+//no interlacing and auto WS by someother1ne
+patch=1,EE,006b4ddc,word,00000000
+patch=1,EE,006b4e64,word,00000000
+patch=1,EE,006C63D8,word,24020002 //auto widescreen
+
