@@ -22,10 +22,19 @@ Downloads
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/maddendeluxe-textures-downloader-v2/releases/tag/release) |
 | Compatible Emulators | [Link](https://github.com/ncaanext/emulator-archive) |
 
+Rosters
+| ------------- | ------------- |
+| 2025 Playoffs | [Link](https://drive.google.com/drive/folders/1NeOnrxan55WHjaZ_SLeN03BkBZS3C8wp?usp=drive_link)  |
+| 2025 Week 10 | [Link](https://drive.google.com/drive/folders/1tA7cyff1OGQ0bNzIsV76Z-ZmAhNgFZiB?usp=drive_link)  |
+| 2025 Week 4 | [Link](https://drive.google.com/drive/folders/1Ey8YUEqJIM8MLmwmTEcGbaMdw7O_O2Tz?usp=drive_link)  |
+| 2025 Week 1 | [Link](https://drive.google.com/drive/folders/1Ey8YUEqJIM8MLmwmTEcGbaMdw7O_O2Tz?usp=drive_link) |
+| 2025 Pre-Season | [Link](https://drive.google.com/drive/folders/1eFvxFyfaSt_dXOWUw2uQvd33DGceHnoU?usp=drive_link) |
+
 JSGME Mods
 | Files  | Link |
 | ------------- | ------------- |
-| Super Bowl LX Package | [Link]()  |
+| Super Bowl LX Package | [Link](https://drive.google.com/drive/folders/1DA9iuLkud8XXJoHa6CusG-Y4TEGNCvvQ?usp=drive_link)  |
+| Super Bowl Endzones | [Link](https://drive.google.com/drive/folders/1Cfo3KjgOtahNF3W0_L638W2Azs44wMR1?usp=drive_link) |
 
 
 
