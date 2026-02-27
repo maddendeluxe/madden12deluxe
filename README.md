@@ -12,6 +12,8 @@ Work In Progress:
 - Schedules
 - Loading screen and menu graphics
 
+[Join the Discord Community for Discussion and Support for the mod!](https://discord.gg/5pfY2f4CW4)
+
 Downloads
 
 | Files  | Link |
