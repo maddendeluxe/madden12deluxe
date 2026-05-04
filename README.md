@@ -40,8 +40,8 @@ Rosters
 JSGME Mods
 | Files  | Link |
 | ------------- | ------------- |
-| Super Bowl LX Package | [Link](https://drive.google.com/drive/folders/1DA9iuLkud8XXJoHa6CusG-Y4TEGNCvvQ?usp=drive_link)  |
-| Super Bowl Endzones | [Link](https://drive.google.com/drive/folders/1Cfo3KjgOtahNF3W0_L638W2Azs44wMR1?usp=drive_link) |
+| Madden Deluxe JSGMEs | [Link](https://www.mediafire.com/folder/2xfpcob0flq7a/Madden_Deluxe_JSGME)  |
+| Madden 12 Exclusive JSGMEs | [Link](https://www.mediafire.com/folder/62jny1oig9nad/M12_Exclusive) |
 
 
 
