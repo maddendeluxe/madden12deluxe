@@ -30,7 +30,7 @@ Rosters
 
 | Files | Link |
 | ------------- | ------------- |
-| 2026 Post-Draft | [Link] (https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.2-beta/SLUS-21946.Madden.NFL.Rost.Rost1.B949F683.psu)|
+| 2026 Post-Draft |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.2-beta/SLUS-21946.Madden.NFL.Rost.Rost1.B949F683.psu)
 | 2025 Playoffs | [Link](https://drive.google.com/drive/folders/1NeOnrxan55WHjaZ_SLeN03BkBZS3C8wp?usp=drive_link)  |
 | 2025 Week 10 | [Link](https://drive.google.com/drive/folders/1tA7cyff1OGQ0bNzIsV76Z-ZmAhNgFZiB?usp=drive_link)  |
 | 2025 Week 4 | [Link](https://drive.google.com/drive/folders/1Ey8YUEqJIM8MLmwmTEcGbaMdw7O_O2Tz?usp=drive_link)  |
