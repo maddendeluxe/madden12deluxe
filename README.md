@@ -1,6 +1,9 @@
 
+
+<img width="2048" height="1024" alt="5ba1f890873580a3-a4fa4bc975b0f603-00006253" src="https://github.com/user-attachments/assets/08e69142-7fb1-4592-bee1-b4e8df50eee1" />
+
 Features:
-- Updated roster to 2025 season
+- Updated roster to 2026 season
 - Expanded uniform slots with updated alternate uniform sets
 - Modified field system
 - New stadiums
@@ -8,7 +11,6 @@ Features:
 
 
 Work In Progress:
-- Stadium wallart
 - Schedules
 - Loading screen and menu graphics
 
