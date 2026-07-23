@@ -20,7 +20,7 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release | [Link](https://github.com/maddendeluxe/madden12deluxe/releases/tag/v0.2-beta)  |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden12deluxe/releases/tag/v0.4-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/maddendeluxe-textures-downloader-v2/releases/tag/release) |
