@@ -8,10 +8,11 @@ Features:
 - Modified field system
 - New stadiums
 - Upscaled textures
+- Player Portraits
+- 2026 Schedule
 
 
 Work In Progress:
-- Schedules
 - Loading screen and menu graphics
 
 [Join the Discord Community for Discussion and Support for the mod!](https://discord.gg/5pfY2f4CW4)
@@ -20,7 +21,7 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release | [Link](https://github.com/maddendeluxe/madden12deluxe/releases/tag/v0.4-beta)  |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden12deluxe/releases/tag/v0.5-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/maddendeluxe-textures-downloader-v2/releases/tag/release) |
@@ -30,6 +31,7 @@ Rosters
 
 | Files | Link |
 | ------------- | ------------- |
+| 2026 Pre-Season |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.5-beta/SLUS-21946.Madden.NFL.Rost.AUG26.152F55A0.max)
 | 2026 Post-Draft |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.2-beta/SLUS-21946.Madden.NFL.Rost.Rost1.B949F683.psu)
 | 2025 Playoffs | [Link](https://drive.google.com/drive/folders/1NeOnrxan55WHjaZ_SLeN03BkBZS3C8wp?usp=drive_link)  |
 | 2025 Week 10 | [Link](https://drive.google.com/drive/folders/1tA7cyff1OGQ0bNzIsV76Z-ZmAhNgFZiB?usp=drive_link)  |
@@ -53,13 +55,25 @@ A: This mod will specifically work on 1.7.2049 or lower builds of PCSX2 (the one
 
 Credits:
 
-joshuablackstone - Rosters, Original Madden 12 Mod
+MisterAlex - Team Member & Uniforms, Graphics
+
+joshuablackstone - Team Member & Rosters, Original Madden 12 Mod
 
 WillyBilly - Player Rating Input for Rosters + ISO patching tool
 
-CryptoIntern - Franchise, Superstar, Gear
+CryptoIntern - Team Member & Team Member & Franchise, Superstar, Gear
 
-johndest - Uniforms and Gear
+johndest - Team Member & Uniforms and Gear
+
+Seanie Mac - Loading Screens
+
+Pinky - Team Member
+
+Sabi - Team Member
+
+newerest - Team Member
+
+j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
 
 antdroid - Creator of tools used to create this mod (NCAA XDBE)
 
@@ -77,12 +91,8 @@ zonepull5 - Creator of NEXT Field Template
 
 KeepinItTeal - Creator of a a few stadium assets ported from Madden 08 FF Mod and Uniform Templates
 
-j4ck01 - Creator of uniforms Ported from Madden 08 FF Mod
-
 1312qohelet - Creator of uniforms ported from Madden 08 FF Mod
 
 pick6 - Creator of the grass/turf used in this mod
 
 elguapo - Creator of tools used to create this mod (Madden Xtreme DB Editor)
-
-
