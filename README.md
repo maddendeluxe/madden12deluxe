@@ -21,7 +21,7 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release | [Link](https://github.com/maddendeluxe/madden12deluxe/releases/tag/v0.6-beta)  |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden12deluxe/releases/tag/v0.6.1-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/maddendeluxe-textures-downloader-v2/releases/tag/release) |
@@ -31,7 +31,7 @@ Rosters
 
 | Files | Link |
 | ------------- | ------------- |
-| 2026 Week 1 |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.6-beta/SLUS-21946.Madden.NFL.Rost.Rost1.6BAEC379.max)
+| 2026 Week 1 |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.6.1-beta/SLUS-21946.Madden.NFL.Rost.Rost1.6BAEC379.max)
 | 2026 Pre-Season |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.5-beta/SLUS-21946.Madden.NFL.Rost.AUG26.152F55A0.max)
 | 2026 Post-Draft |[Link](https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.2-beta/SLUS-21946.Madden.NFL.Rost.Rost1.B949F683.psu)
 | 2025 Playoffs | [Link](https://drive.google.com/drive/folders/1NeOnrxan55WHjaZ_SLeN03BkBZS3C8wp?usp=drive_link)  |
